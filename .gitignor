@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+*.opendb
+*.VC.db
+
+# Сборочные файлы
+*.exe
+*.obj
+*.log
+*.pch
+*.pdb
+*.ipch
+*.ilk
+*.aps
+
