@@ -5,6 +5,10 @@
 *.vcxproj.user
 *.opendb
 *.VC.db
+.vs/
+*.user
+*.sub
+*.opendb
 
 # Сборочные файлы
 *.exe
